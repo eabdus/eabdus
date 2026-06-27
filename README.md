@@ -9,13 +9,6 @@ I specialize in automating, scaling, and securing cloud-native applications. My 
 * **Shift-Left Security:** Integrating automated **security scanning** tools to catch vulnerabilities before they hit production.
 * **Observability & Logging:** Building proactive monitoring and centralized logging dashboards using **Prometheus**, **Grafana**, and the **ELK Stack**.
 
-### 🧰 Tech Stack & Tools:
-* **Cloud:** AWS
-* **Containers:** Docker, Kubernetes
-* **CI/CD / GitOps:** Jenkins, GitHub Actions, ArgoCD
-* **Security:** SAST/DAST tools, Container Scanning (Trivy)
-* **Observability:** Prometheus, Grafana, ELK Stack
-
 * ### 🧰 Tech Stack & Tools:
 
 #### ☁️ Cloud & Infrastructure as Code (IaC)
