@@ -7,9 +7,11 @@ I specialize in automating, scaling, and securing cloud-native applications. My 
 * **Containerization & Orchestration:** Managing microservices using **Docker** and **Kubernetes**.
 * **CI/CD & GitOps:** Automated pipelines with **Jenkins** and **GitHub Actions**, and driving deployments via **ArgoCD**.
 * **Shift-Left Security:** Integrating automated **security scanning** tools to catch vulnerabilities before they hit production.
+* **Observability & Logging:** Building proactive monitoring and centralized logging dashboards using **Prometheus**, **Grafana**, and the **ELK Stack**.
 
 ### 🧰 Tech Stack & Tools:
 * **Cloud:** AWS
 * **Containers:** Docker, Kubernetes
 * **CI/CD / GitOps:** Jenkins, GitHub Actions, ArgoCD
-* **Security:** SAST/DAST tools, Container Scanning (Trivy/Grype)
+* **Security:** SAST/DAST tools, Container Scanning (Trivy)
+* **Observability:** Prometheus, Grafana, ELK Stack
