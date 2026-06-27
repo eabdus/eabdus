@@ -1,18 +1,15 @@
-## Hi there 👋
+## Hi there, I'm a DevOps Engineer 👋
 
-- 🌱 I’m currently learning Devops Engineer
+I specialize in automating, scaling, and securing cloud-native applications. My passion lies in building resilient infrastructure and ensuring that security is a first-class citizen in the CI/CD pipeline (DevSecOps).
 
-<!--
-**eabdus/eabdus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ What I Do:
+* **Cloud Infrastructure:** Architecting scalable and secure environments on **AWS**.
+* **Containerization & Orchestration:** Managing microservices using **Docker** and **Kubernetes**.
+* **CI/CD & GitOps:** Engineering automated pipelines with **Jenkins** and **GitHub Actions**, and driving declarative deployments via **ArgoCD**.
+* **Shift-Left Security:** Integrating automated **security scanning** tools to catch vulnerabilities before they hit production.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Tools:
+* **Cloud:** AWS
+* **Containers:** Docker, Kubernetes
+* **CI/CD / GitOps:** Jenkins, GitHub Actions, ArgoCD
+* **Security:** SAST/DAST tools, Container Scanning (Trivy/Grype)
