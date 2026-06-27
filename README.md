@@ -5,7 +5,7 @@ I specialize in automating, scaling, and securing cloud-native applications. My 
 ### 🛠️ What I Do:
 * **Cloud Infrastructure:** Architecting scalable and secure environments on **AWS**.
 * **Containerization & Orchestration:** Managing microservices using **Docker** and **Kubernetes**.
-* **CI/CD & GitOps:** Engineering automated pipelines with **Jenkins** and **GitHub Actions**, and driving declarative deployments via **ArgoCD**.
+* **CI/CD & GitOps:** Automated pipelines with **Jenkins** and **GitHub Actions**, and driving deployments via **ArgoCD**.
 * **Shift-Left Security:** Integrating automated **security scanning** tools to catch vulnerabilities before they hit production.
 
 ### 🧰 Tech Stack & Tools:
